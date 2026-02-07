@@ -38,13 +38,12 @@ Frontend Developer · UI Systems · Component Libraries
 ![Agile](https://img.shields.io/badge/Agile-Scrum-0052CC)
 
 ---
-
 ## 🏢 Experience & Organizations
 
 - **hexaTune LLC** — Frontend Developer / Team Lead *(Remote)*
-- **hexaWebShare** — Frontend Component Library *(Active)*
-- **ayseturmus.com** — Personal Website & Portfolio
-- **Morkop Dijital Ajans** — Web & Frontend Projects
+- **[hexaWebShare](https://www.npmjs.com/package/@htunesys/hexawebshare)** — Frontend Component Library *(Active)*
+- **[ayseturmus.com](https://ayseturmus.com)** — Personal Website & Portfolio
+- **[Morkop Dijital Ajans](https://morkop.com)** — Web & Frontend Projects
 - **OctopOS Prime** — Frontend Development
 - **Ubn-Jr** — Development Team
 
